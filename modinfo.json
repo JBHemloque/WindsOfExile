@@ -1,0 +1,23 @@
+{
+	"name": "WindsOfExile",
+	"description": "ALPHA: Server mod for the Winds of Exile server",
+	"changeNote": "- 0.1.0: Initial version with placeholder graphics\r\n- 0.1.2: Added graphics for most items, some placeholders remain\r\n- 0.2.0: Fixed frost lotus elixir graphic. Added missing graphics and text.",
+	"author": "JBHemlock",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 2,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamTestLivePublishedFileId": "",
+	"steamWorkshopFileIds":
+	{
+		"mainClient": "3808950344"
+	},
+	"steamVisibility": 0,
+	"folderName": "WindsOfExile",
+	"devkitRevisionNumber": 1002,
+	"devkitSnapshotId": 0,
+	"minimumVersion": "Enhanced",
+	"requestedHttpOrigins": []
+}
